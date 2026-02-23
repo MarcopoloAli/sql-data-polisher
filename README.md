@@ -46,7 +46,7 @@ The following SQL operations were applied:
 
 ## 📂 Repository Structure
 - `scripts/` → SQL scripts for cleaning  
-- `data/` → Raw dataset (CSV or SQL dump)  
+- `layoffs.csv/` → Raw dataset (CSV or SQL dump)  
 - `README.md` → Project documentation  
 
 ---
