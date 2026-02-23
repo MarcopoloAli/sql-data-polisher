@@ -45,7 +45,7 @@ The following SQL operations were applied:
 ---
 
 ## 📂 Repository Structure
-- `scripts/` → SQL scripts for cleaning  
+- `Data-polishing-project.sql` → SQL scripts for cleaning  
 - `layoffs.csv/` → Raw dataset (CSV or SQL dump)  
 - `README.md` → Project documentation  
 
@@ -54,4 +54,4 @@ The following SQL operations were applied:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mysql-data-cleaning-layoffs.git
+   git clone https://github.com/MarcopoloAli/sql-data-polisher.git
